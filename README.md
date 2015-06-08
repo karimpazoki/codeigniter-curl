@@ -15,7 +15,7 @@ and makes more complicated cURL requests easier too.
 ## Requirements
 
 1. PHP 5.1+
-2. CodeIgniter 1.7.x - 2.0-dev
+2. CodeIgniter 3.0-dev
 3. PHP 5 (configured with cURL enabled)
 4. libcurl
 
